@@ -2586,7 +2586,7 @@
 /* Main */
 
 	#main > section {
-		border-top: solid 10px #f4f4f4;
+		border-top: solid 0px #f4f4f4;
 	}
 
 		#main > section > .container {
