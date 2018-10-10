@@ -370,7 +370,7 @@
 					var i = $(this);
 					var x = $(
 								$('<div>')
-									.append(i.clone())
+									.append(i.\\clone())
 									.remove()
 									.html()
 									.replace(/type="password"/i, 'type="text"')
