@@ -2586,7 +2586,7 @@
 /* Main */
 
 	#main > section {
-		border-top: solid 10px #f4f4f4;
+		border-top: solid 300px #f4f4f4;
 	}
 
 		#main > section > .container {
@@ -2600,7 +2600,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/TMCFBanner.jpg");
+		background-image: url(../../images/TMCFBanner.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2785,7 +2785,7 @@
 		/* One */
 
 			#one:before {
-				height: 20em;
+				height: 10em;
 			}
 
 		/* Off-Canvas Navigation */
